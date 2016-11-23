@@ -66,4 +66,9 @@
     <string name="network_traffic_refresh_interval_summary">Duration after which speed is remeasured</string>
     <string name="unit_seconds">seconds</string>
 
+
+    <!-- Volume button music control -->
+    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
+
 </resources>
