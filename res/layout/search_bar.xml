@@ -33,7 +33,7 @@
         android:layout_marginTop="@dimen/search_bar_margin"
         android:layout_marginBottom="@dimen/search_bar_margin"
         android:layout_marginEnd="28dp"
-        android:layout_width="200dp"
+        android:layout_width="220dp"
         android:layout_height="wrap_content"
         android:layout_weight="1.0">
 
@@ -41,8 +41,8 @@
         <Toolbar
             android:id="@+id/search_action_bar"
             android:layout_width="fill_parent"
-            android:layout_height="@dimen/search_bar_height"
             android:layout_marginStart="-2.0dip"
+            android:layout_height="@dimen/search_bar_height"
             android:background="@drawable/search_bar_selected_background"
             android:contentInsetStartWithNavigation="@dimen/search_bar_content_inset"
             android:navigationIcon="@drawable/ic_homepage_search">
